@@ -45,4 +45,5 @@ For a live demo of the game, visit: Tic-Tac-Toe Game (https://iamashfaqshaik.git
 
 Author
 Name: Shaik Ashfaq
-GitHub: Shaik Ashfaq
+
+GitHub: Shaik Ashfaq (https://github.com/iamAshfaqShaik)
