@@ -41,8 +41,8 @@ The game will automatically detect the winner or declare a tie.
 Click "Restart" to play again.
 
 Demo
-For a live demo of the game, visit: Tic-Tac-Toe Game ()
+For a live demo of the game, visit: Tic-Tac-Toe Game (https://iamashfaqshaik.github.io/PIT_WD_4/pd5/)
 
 Author
-Name: Shaik Albaz
-GitHub: Shaik Albaz
+Name: Shaik Ashfaq
+GitHub: Shaik Ashfaq
