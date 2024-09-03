@@ -1,49 +1,45 @@
+
+
 # PIT_Task-4
 
-# Tic-Tac-Toe Game
+# Personal Portfolio Website
 
-Project Overview
+## Project Overview
 
-This project is a web-based Tic-Tac-Toe game built as part of the SkillCraft Technology Task 03. The application allows users to play Tic-Tac-Toe either against another player or against a computer. The game has been designed to be interactive and engaging, with features to handle user clicks, track game state, and check for winning conditions.The game is built with HTML, CSS, and JavaScript and provides a seamless and engaging user experience.
+This project is a personal portfolio website created as part of the Prodigy Infotech Task 04. The website showcases my professional background, skills, projects, and contact information. It serves as a digital resume and a platform for potential employers and collaborators to learn more about my work. The portfolio is designed with a focus on clean aesthetics, easy navigation, and responsive design, ensuring an engaging user experience across all devices.
 
-Introduction
+## Introduction
 
-This project is a web-based implementation of the tic-tac-toe game. The game can be played in two modes:
+The personal portfolio website highlights my journey as a developer, featuring an overview of my skills, a selection of projects I have worked on, and ways to get in touch with me. The website is intended to reflect my personality and professional brand, making it easy for visitors to see my capabilities and achievements.
 
-Multiplayer Mode:
-Two players can play against each other on the same device.
-Player vs Computer Mode: A single player can play against a computer opponent with a basic AI.
-Features
-Responsive Design:
-The game is fully responsive and works seamlessly on all device sizes.
-Interactive UI: A clean and intuitive interface that enhances the user experience.
-Game Modes:
-Choose between Multiplayer and Player vs Computer modes.
-Winner Announcement: The game announces the winner or declares a tie.
-Restart Game: Option to restart the game after each round.
+### Key Features
 
-Technologies Used
+- **Responsive Design**: The website is fully responsive and looks great on devices of all sizes, from desktops to smartphones.
+- **Interactive UI**: A clean and modern interface that is easy to navigate, allowing users to explore my work effortlessly.
+- **Projects Showcase**: Detailed descriptions of selected projects, including technologies used and links to live demos or repositories.
+- **About Me Section**: A brief overview of my background, skills, and interests.
+- **Contact Form**: A simple form that allows visitors to reach out to me directly through the website.
+- **Social Media Links**: Quick access to my social media profiles, such as LinkedIn and GitHub, for further engagement.
 
-HTML5: Structure of the web pages.
-CSS3: Styling and layout with a focus on responsiveness.
-JavaScript: Game logic and interactivity.
+### Technologies Used
 
-Usage
+- **HTML5**: Structuring the content of the web pages.
+- **CSS3**: Styling and layout with a focus on responsive design and visual appeal.
+- **JavaScript**: Adding interactivity and dynamic elements to enhance user experience.
 
-Open the game in your web browser.
+### Usage
 
-Select the game mode:
+Visitors can navigate through the website to learn more about my professional background, explore my portfolio of projects, and connect with me via the contact form or social media links.
 
-Multiplayer: Two players take turns playing on the same device.
-Player vs Computer: Play against the computer.
-Click on the grid to place your mark (X or O).
-The game will automatically detect the winner or declare a tie.
-Click "Restart" to play again.
+### Demo
 
-Demo
-For a live demo of the game, visit: Tic-Tac-Toe Game (https://iamashfaqshaik.github.io/PIT_WD_4/pd5/)
+For a live demo of the portfolio website, visit: [My Portfolio](https://iamashfaqshaik.github.io/PIT_WD_4/pd5/)
 
-Author
-Name: Shaik Ashfaq
+### Author
 
-GitHub: Shaik Ashfaq (https://github.com/iamAshfaqShaik)
+**Name**: Shaik Ashfaq
+
+**GitHub**: [Shaik Ashfaq](https://github.com/iamAshfaqShaik)
+
+---
+
